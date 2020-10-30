@@ -18,5 +18,7 @@ Infos zu Caritas Care
 www.caritascare.ch
 
 Dokumente:
-Bisher verwendete Dokumente zur Erfassung der notwendigen Daten der Betreuerinnen.
+- Bisher verwendete Dokumente zur Erfassung der notwendigen Daten der Betreuerinnen.
+- NAV Kanton Bern
+- Power Point Präsentation Challenge
 
