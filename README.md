@@ -1,19 +1,3 @@
-# 24 hour care
-
-A project started at the [Hack4SocialGood hackathon](https://bd.hack4socialgood.ch/project/2) on December 11, 2020.
-
-### Outputs
-
-We have during the hackathon briefly evaluated several possible platforms for further development of an online solution for Care givers. We consider open source, strong security, data integration, and privacy protection measures to be key characteristics of a successful direction going forward. 
-
-Our solution (and the tool it is made with) includes:
-
-- Prototype website with recommendation of navigation (Wix)
-- Analysis of the context and recommendation of workflow (Invision)
-- Mock up of a data structure and process model (Airtable)
-- Personas and Design Thinking template with empathy map (Powerpoint)
-- Requirements mapping and outline with [further recommendations](https://github.com/tholzgang/Caritas-Challenge/issues/7) (GitHub)
-
 # Challenge statement
 
 This is the challenge provided by Caritas. See also supporting slides [in English](https://docs.google.com/presentation/d/e/2PACX-1vSJkwsOtF4v_8h6DjkaMr30VKe6jX8IQXF4AqnLo9cgFIFXUSWAOyyW5VVJpI7cCaeKJCghfb2T_EGr/pub?start=false&loop=false&delayms=3000#slide=id.ga817c7213e_2_383) and [in German](./Hack4SocialGood.pptx) ([Drive](https://docs.google.com/presentation/d/e/2PACX-1vSdyoTcFtARym-QiHLWjti3-hssEx44Kpe1WeOV65p5XKF-T2LoFjB4vbGjz9mWuOpywlg08Kk2ZtpN/pub?start=false&loop=false&delayms=3000#slide=id.gaf0f05dd95_0_742)).
